@@ -1,2 +1,2 @@
 # iNotebook
- in order to record daily life
+ In order to record daily life
